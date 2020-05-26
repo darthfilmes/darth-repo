@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="repository.demo.kodi" name="Demonstration repository" version="0.0.2" provider-name="Mafarricos">
+<addon id="repository.demo.kodi" name="Demonstration repository" version="0.0.2" provider-name="darth">
 	<extension point="xbmc.addon.repository" name="Demonstration Add-on Repository">
-		<info compressed="false">http://raw.github.com/Mafarricos/Mafarricos-kodi-demo-repo/master/addons.xml</info>
-		<checksum>http://raw.github.com/Mafarricos/Mafarricos-kodi-demo-repo/master/addons.xml.md5</checksum>
-		<datadir zip="true">http://raw.github.com/Mafarricos/Mafarricos-kodi-demo-repo/master/repo/</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/darthfilmes/darth-repo/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/darthfilmes/darth-repo/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/darthfilmes/darth-repo/master/repo/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary>Demonstration Addon</summary>
-		<description>Addon Description</description>
+		<summary>Repo Darth</summary>
+		<description>Repo Darth</description>
 		<disclaimer></disclaimer>
 		<platform>all</platform>
 	</extension>
